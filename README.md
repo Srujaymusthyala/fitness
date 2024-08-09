@@ -32,5 +32,4 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fitness-tracking-app.git
-cd fitness-tracking-app
+
